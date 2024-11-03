@@ -124,3 +124,9 @@ const productResource = {
 ## License
 
 This package is open-source and available under the MIT License.
+
+## Contact Me
+[GitHub](https://github.com/Kashan321)
+[LinkedIn](https://www.linkedin.com/in/mkashanhaider)
+[Gmail](muhammadkashanhaider3241@gmail.com)
+
