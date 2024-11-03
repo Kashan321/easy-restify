@@ -10,7 +10,7 @@ const options = {
             description: 'A dynamically generated REST API',
         },
     },
-    apis: ['./src/utils/resourceManager.js'], // Point to resourceManager.js for Swagger docs
+    apis: ['../utils/resourceManager.js'],
 };
 
 const swaggerSpec = swaggerJsdoc(options);

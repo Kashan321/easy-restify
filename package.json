@@ -1,16 +1,24 @@
 {
   "name": "easy-restify",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
-  "keywords": [],
+  "keywords": ["express", "REST API", "swagger", "joi", "validation", "easy-restify", "automatic-documentation"],
   "author": "Muhammad Kashan Haider",
-  "license": "Apache-2.0 license",
-  "description": "A simple and easy-to-use RESTful API framework built with Express. Includes validation with Joi and automatic API documentation generation with Swagger",
+  "license": "Apache-2.0",
+  "description": "A simple and easy-to-use RESTful API framework built with Express. Includes validation with Joi and automatic API documentation generation with Swagger.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kashan321/easy-restify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kashan321/easy-restify/issues"
+  },
+  "homepage": "https://github.com/Kashan321/easy-restify#readme",
   "dependencies": {
     "express": "^4.21.1",
     "joi": "^17.13.3",
